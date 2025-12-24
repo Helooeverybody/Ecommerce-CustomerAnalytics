@@ -21,7 +21,7 @@ Data link: [raw-data](https://www.kaggle.com/datasets/retailrocket/ecommerce-dat
 ## Folder structures
 
 ```
-.
+
 ├── data/
 |   ├── raw/                         # Raw Data
 |   ├── processed/                   # Processed Data
