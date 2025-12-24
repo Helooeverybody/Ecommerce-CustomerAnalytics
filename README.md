@@ -15,7 +15,8 @@ allowing the design of targeted strategies that maximize conversion and retentio
 Together, this end-to-end pipeline provide robust framework for the problem of customer growth.
 
 Data link: [raw-data](https://www.kaggle.com/datasets/retailrocket/ecommerce-dataset/data)
-## Pipeline Overview:
+## Pipeline Overview
+<img width="1128" height="364" alt="image" src="https://github.com/user-attachments/assets/c4ab04e4-8c14-4fc4-ba17-f517926b0745" />
 
 ## Folder structures
 
